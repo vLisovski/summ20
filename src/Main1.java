@@ -18,7 +18,7 @@ public class Main1 {
             firstNum[i] = Fnn[i] - '0';
 
         }
-        
+
         System.out.println("Enter second number:");
         System.out.println("$$$$$$$$$$$$$$$$$$$$");
         sN = scanner.nextLine();
